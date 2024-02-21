@@ -1,0 +1,27 @@
+body{
+
+    background-color: rgb(54, 94, 152);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align:center;
+
+}
+
+a {
+    color: rgb(0, 0, 0);
+}
+
+a:visited{
+    color: rgb(0, 0, 0);
+}
+a:hover{
+    color: rgb(251, 251, 251);
+}
+
+h1{
+    background-color: rgb(251, 251, 251);
+    color: 54, 94, 152;
+    padding: 50px;
+    border: 1px solid rgb(3, 83, 83);
+    text-align: center;
+}
