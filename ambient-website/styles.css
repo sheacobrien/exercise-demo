@@ -112,7 +112,7 @@ body{
 
 @keyframes colorfade {
     0%{
-        background-color: rgb(122, 177, 191);
+        background-color: rgb(66, 26, 167);
         filter: blur(100px);
     }
     16%{
