@@ -14,8 +14,8 @@ body{
         animation-name: colorfade;
         animation-duration:10s;
         animation-iteration-count: infinite;
-        filter: blur(4px);
       }
+      
 .circle {
         width: 100;
         height: 100;
